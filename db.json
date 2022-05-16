@@ -2,10 +2,11 @@
   "tokens": [
     {
       "id": 0,
-      "description": "This is the first sample NFT.",
-      "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
-      "external_url": "https://training.mammothinteractive.com/",
-      "name": "Test Meta 0"
+       "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+       "external_url": "https://openseacreatures.io/3", 
+       "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
+       "name": "Dave Starbelly",
+        "attributes": [ ... ], 
     },
     {
       "id": 1,
