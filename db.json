@@ -5,7 +5,7 @@
       "description": "This is the first sample NFT.",
       "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
       "external_url": "https://training.mammothinteractive.com/",
-      "name": "Blue Horned Fish"
+      "name": "Blue Horned Fish",
       "attributes": [
     {
       "trait_type": "Base", 
