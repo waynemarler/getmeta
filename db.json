@@ -75,6 +75,13 @@
       "image": "https://ipfs.io/ipfs/QmSbspFF9B5DiNDqCD6VfjVBuPV4xYM1JgL9KFGVAuFiyp?filename=owl-1.png",
       "external_url": "https://training.mammothinteractive.com/",
       "name": "Multi Coloured Owl 1"
+    },
+    {
+      "id": 4,
+      "description": "This is my other Owl NFT.",
+      "image": "https://ipfs.io/ipfs/QmfEoLzkmMZhkoMqkvVKNqSGYPZTY86kZ78fsyueenCxrB?filename=owl-2.png",
+      "external_url": "https://training.mammothinteractive.com/",
+      "name": "Multi Coloured Owl 2"
     }
   ]
 }
